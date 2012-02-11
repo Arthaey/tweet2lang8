@@ -4,7 +4,7 @@
 
 **twitter user:**
 
- -  @tweet2lang8 #register *&lt;lang-8 user id&gt*;
+ -  @tweet2lang8 #register *&lt;lang-8 user id&gt;*
 
 **tweet2lang8:**
 
